@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874821727745" remote="131556874820000000" Dst="1" />
+<file name="InvalidArgumentException.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874822158022" remote="131556874820000000" Dst="1" />
+<file name="LoggerAwareInterface.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874822633330" remote="131556874820000000" Dst="1" />
+<file name="LoggerAwareTrait.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874823088635" remote="131556874820000000" Dst="1" />
+<file name="LoggerInterface.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874823749079" remote="131556874820000000" Dst="1" />
+<file name="LoggerTrait.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874824574635" remote="131556874820000000" Dst="1" />
+<file name="LogLevel.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874825119998" remote="131556874820000000" Dst="1" />
+<file name="NullLogger.php" server="C:/xampp/htdocs/pruebaTienda/" local="131556874825750551" remote="131556874820000000" Dst="1" />
+</dwsync>

@@ -1,0 +1,10 @@
+$('#curp').popover({
+html: true,
+content: '<i class="fa fa-exclamation-triangle" style="border-color: rgb(178,178,178)!important; margin-right: 10px;font-size: 15px;color: #ffa400;"></i>' + 'Formato de CURP<br> incorrecto. <br>(XXXX000000XXXXXX00)',
+placement: 'bottom',
+autoClose: true,
+trigger: 'manual'
+});
+error = true;
+$("#curp").popover('show');
+$("#curp").popover('destroy');

@@ -1,0 +1,28 @@
+.parallax {
+	line-height:27px;
+	font-size:15px;
+	color:#fff;
+	padding: 12px 0px 12px 0px;
+	width: 100%;
+}
+.parallax>div {
+	position:relative;
+	color:#fff;
+	background-position:top;
+	background-repeat:no-repeat;
+	text-align:center;
+	background-size:cover
+}
+.parallax p {
+	position:relative;
+}
+.parallax h1,
+.parallax h2 {
+	position:relative;
+}
+.parallax h2 {
+	font-weight:400;
+}
+.parallax>div a {
+	position:relative;
+}
